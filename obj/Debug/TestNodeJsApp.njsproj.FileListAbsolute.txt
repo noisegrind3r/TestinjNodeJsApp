@@ -1,0 +1,2 @@
+C:\Users\noise\source\repos\TestNodeJsApp\obj\Debug\TestNodeJsApp.njsproj.CoreCompileInputs.cache
+C:\Users\noise\source\repos\TestNodeJsApp\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,12 @@
+{
+  "name": "test-node-js-app",
+  "version": "0.0.0",
+  "description": "TestNodeJsApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "commander": "^8.3.0"
+  }
+}
